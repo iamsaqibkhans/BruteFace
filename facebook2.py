@@ -1,9 +1,9 @@
 #!usr/bin/python
-#Facebook Cracker Version 2 can crack into Facebook Database 100% without Interruption By Facebook Firewall !
+#Brute Face can crack into Facebook Database 100% without Interruption By Facebook Firewall !
 #This program is for educational purposes only.
 #Don't attack people facebook accounts it's illegal ! 
 #If you want to crack into someone's account, you must have the permission of the user. 
-#InfosecHacker is not responsible.
+#Saqib S Khan is not responsible.
 
 
 import sys
@@ -14,9 +14,9 @@ import cookielib
 
 GHT = '''
         +=========================================+
-        |..........Facebook Cracker v 3.0.........|
+        |..............Brute Face v 3.0...........|
         +-----------------------------------------+
-        |#Editor:.         Saqib S Khan           |
+        |#Editor:.      Saqib S Khan              |
         |#Contact: www.facebook.com/iamsaqibkhans |
         |#Date: 06/06/2018                        |
         |#This tool is made for pentesting.       |
@@ -26,9 +26,22 @@ GHT = '''
         |#I take no responsibilities for the      |
         |  use of this program !                  |
         +=========================================+
-        |..........Facebook Cracker v 3.0.........|
+        |..............Brute Face v 3.0...........|
         +-----------------------------------------+
 '''
+print "
+.----------------.  .----------------.  .----------------.  .----------------.  .----------------.   .----------------.  .----------------.  .----------------.  .----------------. 
+| .--------------. || .--------------. || .--------------. || .--------------. || .--------------. | | .--------------. || .--------------. || .--------------. || .--------------. |
+| |   ______     | || |  _______     | || | _____  _____ | || |  _________   | || |  _________   | | | |  _________   | || |      __      | || |     ______   | || |  _________   | |
+| |  |_   _ \    | || | |_   __ \    | || ||_   _||_   _|| || | |  _   _  |  | || | |_   ___  |  | | | | |_   ___  |  | || |     /  \     | || |   .' ___  |  | || | |_   ___  |  | |
+| |    | |_) |   | || |   | |__) |   | || |  | |    | |  | || | |_/ | | \_|  | || |   | |_  \_|  | | | |   | |_  \_|  | || |    / /\ \    | || |  / .'   \_|  | || |   | |_  \_|  | |
+| |    |  __'.   | || |   |  __ /    | || |  | '    ' |  | || |     | |      | || |   |  _|  _   | | | |   |  _|      | || |   / ____ \   | || |  | |         | || |   |  _|  _   | |
+| |   _| |__) |  | || |  _| |  \ \_  | || |   \ `--' /   | || |    _| |_     | || |  _| |___/ |  | | | |  _| |_       | || | _/ /    \ \_ | || |  \ `.___.'\  | || |  _| |___/ |  | |
+| |  |_______/   | || | |____| |___| | || |    `.__.'    | || |   |_____|    | || | |_________|  | | | | |_____|      | || ||____|  |____|| || |   `._____.'  | || | |_________|  | |
+| |              | || |              | || |              | || |              | || |              | | | |              | || |              | || |              | || |              | |
+| '--------------' || '--------------' || '--------------' || '--------------' || '--------------' | | '--------------' || '--------------' || '--------------' || '--------------' |
+ '----------------'  '----------------'  '----------------'  '----------------'  '----------------'   '----------------'  '----------------'  '----------------'  '----------------' 
+"
 print "Note: - This tool can crack facebook account even if you don't have the email of your victim"
 print "# Hit CTRL+C to quit the program"
 print "# Use www.graph.facebook.com for more infos about your victim ^_^"
